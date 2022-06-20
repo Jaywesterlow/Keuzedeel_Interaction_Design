@@ -14,7 +14,8 @@
 
 ## Informatie
 
-Interaction Design voor de opleiding SD (Software Developer)  
+Interaction Design voor de opleiding SD (Software Developer)
+Al het bewijsmateriaal gaat over het 'Transformers Community' project
 
 
 ---
